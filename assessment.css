@@ -11,6 +11,10 @@ a:hover{
   color: red;
 }
 
+#teamRoster>li>img:first-child{
+display: none;
+}
+
 blockquote{
   background-color: black;
   color: white;
