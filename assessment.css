@@ -9,7 +9,9 @@ li{
 
 a:hover{
   color: red;
+  text-decoration: none;
 }
+
 
 #teamRoster>li>img:first-child{
 display: none;
@@ -36,6 +38,7 @@ blockquote{
 
 #scoreBoard{
   border: 1px solid black;
+  text-align: center;
 }
 
 #scoreBoard th{
